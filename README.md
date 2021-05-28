@@ -1,6 +1,6 @@
 # Movie Review Application(Android Studio Project)
 
-It is an android application which fetches movies data from https://www.themoviedb.org/ API and shows movies data to the user. This app have 3 main functionalities -
+It is an android application which fetches movies data from https://www.themoviedb.org/ API and shows movies data to the user. This app have 2 main functionalities -
 1. Show list of all movies to the User
 2. Rate the movie and store it in the local database to see it later
 
