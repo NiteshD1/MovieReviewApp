@@ -9,9 +9,9 @@ It is an android application which fetches movies data from https://www.themovie
 ##  Demo
 
 
-https://j.gifs.com/EqOGqk.gif
+https://j.gifs.com/6W8QnL.gif
 
-[![Demo CountPages alpha](https://j.gifs.com/EqOGqk.gif)] 
+[![Demo CountPages alpha](https://j.gifs.com/6W8QnL.gif)] 
 
 
 ## Technology used
@@ -32,6 +32,6 @@ https://j.gifs.com/EqOGqk.gif
 
 
 #### Related Link
-- Download demo application by clicking [**here**](https://drive.google.com/file/d/1joY9OMpGbQPayHsVfbri0SJ6b2PzTORW/view?usp=sharing)
-- Watch demo video on youtube by clicking [**here**](https://youtu.be/t96wkApy5yo)
+- Download demo application by clicking [**here**](https://github.com/NiteshD1/MovieReviewApp/blob/master/app/release/app-release.apk)
+- Watch demo video on youtube by clicking [**here**](https://youtu.be/l_DA9slywdI)
 
