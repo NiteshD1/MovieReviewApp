@@ -32,6 +32,6 @@ https://j.gifs.com/6W8QnL.gif
 
 
 #### Related Link
-- Download demo application by clicking [**here**](https://github.com/NiteshD1/MovieReviewApp/blob/master/app/release/app-release.apk)
+- Download demo application by clicking [**here**](https://github.com/NiteshD1/MovieReviewApp/blob/master/app/release/app-release.apk)(Click on 3 menu dots to download)
 - Watch demo video on youtube by clicking [**here**](https://youtu.be/l_DA9slywdI)
 
