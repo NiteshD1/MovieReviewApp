@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<navigation xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto" android:id="@+id/movie_nav_graph"
+    app:startDestination="@id/allMoviesFragment">
+    <fragment
+        android:id="@+id/allMoviesFragment"
+        android:name="com.studyquiz.ratemovie.ui.fragments.AllMoviesFragment"
+        android:label="AllMoviesFragment" >
+        <action
+            android:id="@+id/action_allMoviesFragment_to_movieFragment"
+            app:destination="@id/movieFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/savedRatedMoviesFragment"
+        android:name="com.studyquiz.ratemovie.ui.fragments.SavedRatedMoviesFragment"
+        android:label="SavedRatedMoviesFragment" >
+        <action
+            android:id="@+id/action_savedRatedMoviesFragment_to_movieFragment"
+            app:destination="@id/movieFragment"
+            app:enterAnim="@anim/slide_in_right"
+            app:exitAnim="@anim/slide_out_left"
+            app:popEnterAnim="@anim/slide_in_left"
+            app:popExitAnim="@anim/slide_out_right" />
+    </fragment>
+    <fragment
+        android:id="@+id/movieFragment"
+        android:name="com.studyquiz.ratemovie.ui.fragments.MovieFragment"
+        android:label="MovieFragment" >
+        <argument
+            android:name="movie"
+            app:argType="com.studyquiz.ratemovie.models.Movie" />
+    </fragment>
+</navigation>
