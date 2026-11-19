@@ -1,4 +1,4 @@
-# Movie Review Application(Android Studio Project)
+# Movie Review App
 
 It is an android application which fetches movies data from https://www.themoviedb.org/ API and shows movies data to the user. This app have 2 main functionalities -
 1. Show list of all movies to the User
@@ -14,21 +14,15 @@ https://j.gifs.com/6W8QnL.gif
 [![Demo CountPages alpha](https://j.gifs.com/6W8QnL.gif)] 
 
 
-## Technology used
+## Technology and tools used
 
-### Front End Development 
 - Ui is designed with xml language in android studio. 
 - Logo and other graphics is designed with photoshop. 
-
-### Back End Development
-
 - This project is build in kotlin language.
 - It uses MVVM(Model View View Model) Architecture
 - It uses Room Database for the local database to store rated movies in the local device
 - It uses Retrofit for the API Request to fetch news from the themoviedb.org
 - It uses Glide library to load News thumbnail Image
-
-
 
 
 #### Related Link
