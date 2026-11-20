@@ -6,12 +6,10 @@ It is an android application which fetches movies data from https://www.themovie
 
 
 
-##  Demo
+##  Preview
 
 
-https://j.gifs.com/6W8QnL.gif
-
-[![Demo CountPages alpha](https://j.gifs.com/6W8QnL.gif)] 
+![Moview Review Preview](MoviewReviewPreview.gif)
 
 
 ## Technology and tools used
