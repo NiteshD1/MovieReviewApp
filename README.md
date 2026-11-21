@@ -9,7 +9,7 @@ It is an android application which fetches movies data from https://www.themovie
 ##  Preview
 
 
-![Moview Review Preview](MoviewReviewPreview.gif)
+![Moview Review Preview](MovieReviewPreview.gif)
 
 
 ## Technology and tools used
